@@ -4,8 +4,8 @@
   --white: #fff;
   --black: #1c2b2d;
   --blue: #31326f;
-  --light-blue: #005490;
-  --color-primary: #9d0191;
+  --light-blue: #299ebb;
+  --color-primary: #0e090d;
   --color-sec: #db6400;
   --grey: #eee;
   --dark-grey: #222831;
@@ -48,7 +48,7 @@ img {
   width: 40rem;
   border: 1px solid var(--grey);
   padding: 1rem;
-  background-color: var(--light-blue);
+  background-image: url(images/bay.jpg);
   color: var(--white);
   text-align: center;
   border-radius: 5px;
